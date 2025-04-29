@@ -15,7 +15,7 @@ serde_repr = "0.1.19"
 sha2 = "0.10.8"
 strum = { version = "0.26.3", features = ["derive"] }
 thiserror = "1.0.63"
-tokio = { version = "1.40.0", features = ["macros", "rt", "rt-multi-thread"] }
+tokio = { version = "1.43.1", features = ["macros", "rt", "rt-multi-thread"] }
 tracing = "0.1.40"
 url = "2.5.2"
 uuid = { version = "1.10.0", features = ["v4"] }
